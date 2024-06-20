@@ -1,1 +1,5 @@
+/.idea
 /.env
+/.venv
+/.gitignore
+/run-venv.bat
